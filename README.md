@@ -1,6 +1,6 @@
 # stock_data_analysis
 
-Stock Data Analysis
+Stock Data Analysis Intro
 
 I analyzed the stock data from years 2018-2020. For each year, I calculated the total stock volume, yearly change in the stock prices and then calculated the % change for each ticker.
 
